@@ -1,16 +1,16 @@
 ############################# About ###################################
 about:
   enable : true
-  title : About Us
+  title : About Me
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-medall # themify icon pack : https://themify.me/themify-icons
+    title : Experience
+    content : As a high-level athlete, I have plenty of knowledge and experience in the field of ellite sports.
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-user # themify icon pack : https://themify.me/themify-icons
+    title : Professionalism
+    content : Always seeking to offer the best possible experience and optimal results to my clients.
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-desktop # themify icon pack : https://themify.me/themify-icons
+    title : Updated
+    content : Making use of the latest technologies in the market and applying state-of-the-art techniques.
