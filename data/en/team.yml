@@ -5,8 +5,8 @@ team:
   team_member :
     # team member loop
     - name : Pepe Álvarez
-      image_webp : images/team/team-1.webp
-      image : images/team/team-1.jpg
+      #image_webp : images/team/yo.webp
+      image : images/team/yo.jpg
       designation : Athlete and Photographer
       content : Sportsman and action photographer with years of experience
       social :
