@@ -1,8 +1,8 @@
 ################################# Testimonial #########################
 testimonial:
   enable : true
-  bg_image : images/backgrounds/bg-testimonial.jpg
-  bg_image_webp : images/backgrounds/bg-testimonial.webp
+  bg_image : images/backgrounds/test_3.jpg
+  bg_image_webp : images/backgrounds/test_3.webp
   testimonial_item :
     # testimonial item loop
     - name : O Marisquiño
@@ -12,7 +12,7 @@ testimonial:
       content : Covered the Senior Women's O Marisquiño 3x3 and the Lite Quest O Marisquiño FIBA 3x3.
 
     # testimonial item loop
-    - name : Olympic Sprint Canoeing National Championship
+    - name : National Olympic Sprint Canoeing Championship
       image : images/client/RFEP_crop.png
       image_webp : images/client/RFEP_crop.webp
       date : Jul, 2022
