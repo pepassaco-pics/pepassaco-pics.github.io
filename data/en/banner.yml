@@ -1,8 +1,8 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/backgrounds/skate.webp"
-  bg_image : "images/backgrounds/skate.jpg"
+  bg_image_webp : "images/backgrounds/basket_1.webp"
+  bg_image : "images/backgrounds/basket_1.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Recklens"
   content : "Professional sports and action photography"

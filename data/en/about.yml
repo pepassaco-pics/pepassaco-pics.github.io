@@ -1,7 +1,7 @@
 ############################# About ###################################
 about:
   enable : true
-  title : About Me
+  title : About Recklens
   about_item :
   - icon : ti-medall # themify icon pack : https://themify.me/themify-icons
     title : Experience

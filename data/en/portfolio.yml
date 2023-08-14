@@ -4,36 +4,36 @@ portfolio:
   title : My Works
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://themefisher.com"
+    - name : Street Skate
+      image : images/portfolio/skate.jpg
+      image_webp : images/portfolio/skate.webp
+      categories : ["Skate"]
+      content : Nikon D5100, 50mm lens
+      link : "images/portfolio/skate.webp"
       
     # portfolio item loop
-    - name : Sound system
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : ""
+    - name : 3x3 Basketball
+      image : images/portfolio/basket_3.jpeg
+      image_webp : images/portfolio/basket_3.webp
+      categories : ["Basket"]
+      content : Nikon D5100, 70mm lens
+      link : "images/portfolio/basket_3.webp"
       
     # portfolio item loop
     - name : Clock Product
       image : images/portfolio/portfolio-3.jpg
       image_webp : images/portfolio/portfolio-3.webp
-      categories : ["design", "development"]
+      categories : ["design"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
-    - name : Bottol Label
-      image : images/portfolio/portfolio-4.jpg
-      image_webp : images/portfolio/portfolio-4.webp
-      categories : ["photography", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+    - name : 3x3 Basketball
+      image : images/portfolio/basket_4.jpeg
+      image_webp : images/portfolio/basket_4.webp
+      categories : ["Basket"]
+      content : Nikon D5100, 42mm lens
+      link : "images/portfolio/basket_4.webp"
       
     # portfolio item loop
     - name : Shopping Bag
@@ -44,33 +44,33 @@ portfolio:
       link : "#"
       
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
-      categories : ["photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+    - name : 3x3 Basketball
+      image : images/portfolio/basket_1.jpeg
+      image_webp : images/portfolio/basket_1.webp
+      categories : ["Basket"]
+      content : Nikon D5100, 35mm lens
+      link : "images/portfolio/basket_1.webp"
       
     # portfolio item loop
     - name : Business Card
       image : images/portfolio/portfolio-7.jpg
       image_webp : images/portfolio/portfolio-7.webp
-      categories : ["development"]
+      categories : ["design"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
-    - name : Stationary Design
-      image : images/portfolio/portfolio-8.jpg
-      image_webp : images/portfolio/portfolio-8.webp
-      categories : ["design", "development"]
+    - name : 3x3 Basketball
+      image : images/portfolio/basket_2.jpeg
+      image_webp : images/portfolio/basket_2.webp
+      categories : ["Basket"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
+      link : "images/portfolio/basket_2.webp"
+
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+    - name : Street Skate
+      image : images/portfolio/skate_2.jpg
+      image_webp : images/portfolio/skate_2.webp
+      categories : ["Skate"]
+      content : Nikon D5100, 50mm lens
+      link : "images/portfolio/skate.webp"
