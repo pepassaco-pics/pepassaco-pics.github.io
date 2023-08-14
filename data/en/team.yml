@@ -4,7 +4,7 @@ team:
   title : About Me
   team_member :
     # team member loop
-    - name : Pepe Álvarez
+    - name : Pablo Pepe Álvarez
       #image_webp : images/team/yo.webp
       image : images/team/yo.jpg
       designation : Athlete and Photographer
